@@ -1,9 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/javafx/FXMLController.java to edit this template
- */
-package simulacro.pkg4;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,11 +12,6 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import jdk.jfr.events.FileWriteEvent;
 
-/**
- * FXML Controller class
- *
- * @author nacho
- */
 public class FXMLConfigController implements Initializable {
 
     @FXML
